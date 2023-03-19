@@ -11,4 +11,4 @@ I specialize in improving business efficiency with solutions based on the 1C pla
 
 ### Experience
 * Automation of treasury processes for a large company in the role of a senior developer.
-* Released self service portal "Personal HR Cabinet" for over 4000 users. Role in a project - developer.
+* Released self service portal "Personal HR Cabinet" for over 4000 users. Role in a project - senior developer.
